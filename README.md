@@ -1,12 +1,12 @@
 # Hi there, I'm Tresor Mugisha 👋
 
-### 🧠 Full-Stack Developer · TypeScript & Python · Problem Solver
+### 🧠 Full-Stack Developer · TypeScript & Javascript · Problem Solver
 
 ---
 
 ## 🚀 About Me
 
-I'm a **mid-level Full-Stack Developer** with 3 years of experience engineering scalable, user-centered web applications. I thrive at the intersection of clean architecture and real-world impact — building tools that actually make a difference.
+I'm a **Full-Stack Developer** with 3 years of experience engineering scalable, user-centered web applications. I thrive at the intersection of clean architecture and real-world impact — building tools that actually make a difference.
 
 - 🔭 Currently building impactful web apps & open-source tools
 - 🌱 Always learning — currently diving deeper into system design & DevOps
